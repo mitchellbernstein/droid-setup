@@ -1,0 +1,9 @@
+{
+  "name": "browser-skill",
+  "version": "1.0.0",
+  "description": "Minimal CDP tools for browser automation",
+  "type": "module",
+  "dependencies": {
+    "puppeteer-core": "^23.11.1"
+  }
+}
